@@ -1,4 +1,4 @@
-# AI-Music-Generation
+# Code_Alpha_AI_Music_Generation
 ● Collect MIDI music data to train your AI model (classical, jazz etc.). 
 ● Preprocess the data into note sequences suitable for training (e.g., using `music21`). 
 ● Build a deep learning model using RNNs (like LSTM) or GANs to learn music patterns. 
